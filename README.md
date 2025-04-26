@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/1ZMQ6_PMf9MAAAAd/raccoon-rave.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="77" alt="csharp logo"  />
   <img width="22" />
@@ -42,6 +38,20 @@
 
 ###
 
-<h2 align="left">Hello World!<br>Welcome on my Github page!</h2>
+<img align="right" height="200" src="https://media1.tenor.com/m/1ZMQ6_PMf9MAAAAd/raccoon-rave.gif"  />
+
+###
+
+<img align="left" height="200" src="https://art.ngfiles.com/images/2924000/2924340_drawreese2news_super-mario-bros-gif.gif?f1671136513"  />
+
+###
+
+<h3 align="left"> -Hello World! <br> -Welcome on my Github page! <br> -I make games with Unity in C#<br>  -I am currently working on Wizard'Venture with @Gaspard2010.<br> -If you want to collaborate, contact me on discord!</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=theophileeeeeee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
