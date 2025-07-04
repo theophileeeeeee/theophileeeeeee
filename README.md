@@ -5,23 +5,23 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="65" height="53" alt="csharpe logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="53" alt="github logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="65" height="53" alt="unity logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="53" alt="arduino logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="53" alt="git logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="53" alt="vscode logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="53" alt="html5 logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="53" alt="css3 logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="53" alt="javascript logo"  />
 </div>
 
 ###
@@ -53,125 +53,104 @@
 
 ###
 
-<p align="left">👩‍💻 I'm currently working on Wiz'Adventure with [@Gaspard2010](https://github.com/Gaspard2010)<br><br>🧠 I'm currently learning C#, HTML, CSS, and Java<br><br>👯‍♀️ I'm looking to collaborate on projects<br><br>📫 How to reach me **theophile.masson13@gmail.com**</p>
+<p align="left">👩‍💻 I'm currently working on Wiz'Adventure with @Gaspard2010<br><br>🧠 I'm currently learning C#, HTML, CSS, and Java<br><br>👯‍♀️ I'm looking to collaborate on projects<br><br>📫 How to reach me : theophile.masson13@gmail.com</p>
+
 
 ###
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="left" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
-
-###
-
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<img align="right" height="50" src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif"  />
 
 ###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theophileeeeeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theophileeeeeee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
+
+###
+<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
+
 
 ###
