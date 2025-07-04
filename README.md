@@ -138,19 +138,3 @@
 
 
 ###
-<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
-
-
-###
-<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
-
-
-###
-<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
-
-
-###
-<img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="80" style="max-width: 100%;" />
-
-
-###
