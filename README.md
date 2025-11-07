@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋 I'm Théophile Masson</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theophileeeeeee&label=Profile%20views&color=0e75b6&style=flat" alt="theophileeeeeee" />
+</p>
+
 ###
 
 <p align="center">🎮 Game Developer • 💻 Unity & C# <br> • 🧠 Always learning & building</p>
