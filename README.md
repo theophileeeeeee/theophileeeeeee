@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎮 Game Developer • 💻 Unity & C# Enthusiast • 🧠 Always learning & building</p>
+<p align="center">🎮 Game Developer • 💻 Unity & C# <br> • 🧠 Always learning & building</p>
 
 <br>
 
@@ -29,8 +29,7 @@
 ### 👨‍💻 About Me
 <img src="https://media1.tenor.com/m/RCrlNZA5M28AAAAd/pedro-racoon.gif" align="right" width="100"/>
 
-- 🔭 Currently working on **Survivor Island**, a 3D survival game built with Unity  
-- 🧱 Also building **Wiz'Adventure**, a 2D adventure game  
+- 🔭 Currently working on **Survivor Island**, a 3D survival game built with Unity
 - 🌱 Learning **C#, Unity, HTML, CSS & Java**  
 - 🤝 Open to collaborations on creative or gameplay-focused projects  
 - 📫 Reach me at **theophile.masson13@gmail.com**
@@ -48,10 +47,18 @@
 
 ### 🌐 Socials
 <div align="center">
-  <a href="https://www.instagram.com/theophile_msn/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@TheophileMasson" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="45" alt="YouTube"/></a>
-  <a href="https://www.twitch.tv/theophilemasson1028" target="_blank"><img src="https://skillicons.dev/icons?i=twitch" width="45" alt="Twitch"/></a>
-  <a href="mailto:theophile.masson13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/theophile_msn/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@TheophileMasson" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="45" alt="YouTube" />
+  </a>
+  <a href="https://www.twitch.tv/theophilemasson1028" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg" width="45" alt="Twitch" />
+  </a>
+  <a href="mailto:theophile.masson13@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" alt="Gmail" />
+  </a>
 </div>
 
 <br>
