@@ -31,6 +31,7 @@
 
 - 🔭 Currently working on **Survivor Island**, a 3D survival game built with Unity
 - 🌱 Learning **C#, Unity, HTML, CSS & Java**  
+- All my projects are available on my portfolio: [https://theophileeeeeee.github.io/Website/](https://theophileeeeeee.github.io/Website/)
 - 🤝 Open to collaborations on creative or gameplay-focused projects  
 - 📫 Reach me at **theophile.masson13@gmail.com**
 
@@ -40,8 +41,8 @@
 
 | 🎮 Project | 🧠 Description | 🔗 Link |
 |------------|----------------|---------|
-| **Wiz'Adventure** | 2D adventure game – play as a wizard’s apprentice on a quest to save his master | [See project](https://theophileeeeeee.github.io/Website/) |
-| **Survivor Island** | 3D survival experience – gather, build, and survive in the wild | [See project](https://theophileeeeeee.github.io/Website/) |
+| **Wiz'Adventure** | 2D adventure game – play as a wizard’s apprentice on a quest to save his master | [See project](https://theophileeeeeee.github.io/Website/wiz-adventure.html) |
+| **Survivor Island** | 3D survival experience – gather, build, and survive in the wild | [See project](https://theophileeeeeee.github.io/Website/survival-island.html) |
 
 <br>
 
