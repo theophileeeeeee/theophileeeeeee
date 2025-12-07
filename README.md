@@ -46,7 +46,7 @@
 | 🎮 Project | 🧠 Description | 🔗 Link |
 |------------|----------------|---------|
 | **Wiz'Adventure** | 2D adventure game – play as a wizard’s apprentice on a quest to save his master | [See project](https://theophileeeeeee.github.io/Website/wiz-adventure.html) |
-| **Survivor Island** | 3D survival experience – gather, build, and survive in the wild | [See project](https://theophileeeeeee.github.io/Website/survival-island.html) |
+| **Survival Island** | 3D survival experience – gather, build, and survive in the wild | [See project](https://theophileeeeeee.github.io/Website/survival-island.html) |
 
 <br>
 
